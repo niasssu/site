@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="../style.css" rel="stylesheet" type="text/css" media="all">
+<title>chrpgtmp</title>	
+</head>
+<body style="background-color:#fdf4e3"> <!-- you can change the backgrounds to your liking :3-->
+<center>
+<div style="width:45%; background-color:#ace; border-radius:1rem;">
+<h3 style="background-color:#fff">[name here]</h3>
+<div style="border-radius:1rem; width:50%; background-color:#bce; float:left;">
+<img src="" alt="image here" style="width:50%"><hr>
+<table>
+<tr>
+<th>Species</th>
+<td>table data</td>
+</tr>
+<tr>
+<th>Age</th>
+<td>table data</td>
+<tr>
+<th>Gender</th>
+<td>table data</td>
+</tr>
+<tr>
+<th>Body</th>
+<td>table data</td>
+</tr>
+<tr>
+<th>Home</th>
+<td>table data</td>
+</tr>
+</table>
+</div>
+<p>[simple description here]</p>
+<hr>
+<p>[story here]</p>
+<hr>
+<p>[whatever else you want]</p>
+</div>
+</center>
+</body>
+</html>
