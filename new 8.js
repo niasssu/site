@@ -20,8 +20,7 @@ let dottedDate = `${hours}.${minutes}.${seconds}.X.${day}.${month}.${year}`;
 let weekDay = ["Sun", "Mon", "Tues", "Wednes", "Thurs", "Fri", "Satur"];
 let currentDay = weekDay[now.getDay()];
 
-/*
+
 let userName = prompt('enter a username', `user-${dottedDate}`);
 console.log(`user-${dottedDate} --> ${userName}`);
-alert(`Welcome, ${userName}!`);
-*/
+document.getElementById('loginTime').innerHTML = `${userName}, you opened this site at ${formattedTime} on ${formattedDate}.`;
