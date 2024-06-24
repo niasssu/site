@@ -2,7 +2,7 @@
 
 
 
-p, td{
+p, td, li{
   font-size:10pt;
 }
 
@@ -39,7 +39,7 @@ aside{
 .tl {
  padding: 1rem;
  width: 62.5%;
- border-radius: 10px;
+ border:#000 2px solid;
 }
 
 .collapsible {
